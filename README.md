@@ -1,3 +1,5 @@
+Project: Text Classification with AG News Dataset
+
 Abstract
 
 AG is a collection of more than one million news articles which have been gathered from more than 2000 news sources by ComeToMyHead, an academic news search engine, in more than one year of activity. The dataset is provided by the academic community for research purposes in data mining, information retrieval, data compression, data streaming, and any other non-commercial activity. The AG’s news topic classification dataset is constructed by Xiang Zhang from the previous dataset. The goal of the second assignment is to preprocess text documents, create document vectors and classify documents based on topics.
